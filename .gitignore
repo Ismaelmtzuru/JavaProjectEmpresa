@@ -1,2 +1,8 @@
-.gitignore
 .class
+.DS_Store
+bin/
+target/
+out/
+.settings/
+.classpath
+.project

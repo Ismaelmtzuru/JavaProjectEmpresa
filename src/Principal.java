@@ -16,8 +16,7 @@ public class Principal {
 
 		List<Empleados> lista = new ArrayList<Empleados>();
 		
-		System.out.println("hola mundo" +100);
-		System.out.println("Cambios nuevos");
+		
 		
 		do {
 			System.out.println("\nBienvenidos al gestor de empleados\n");
